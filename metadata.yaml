@@ -1,0 +1,32 @@
+_repo: British-freewomen-b-Their-historical-privilege_71414
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stopes, C. C. (Charlotte Carmichael)
+    aliases:
+    - Stopes, Charlotte Carmichael
+    - Carmichael, Charlotte Brown
+    birthdate: 1840
+    deathdate: 1929
+    gutenberg_agent_id: '31907'
+    url: http://www.gutenberg.org/2009/agents/31907
+    wikipedia: https://en.wikipedia.org/wiki/Charlotte_Carmichael_Stopes
+description: ''
+gutenberg_issued: '2023-08-15'
+identifiers:
+  gutenberg: '71414'
+language: en
+pgterms:marc904: https://archive.org/details/britishfreewomen00stopuoft
+pgterms:marc905: 20220531040518stopes
+pgterms:marc906: '1894'
+pgterms:marc907: UK
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aLondon :$bSwan Sonnenschein & Co., $c1894.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'British freewomen : $b Their historical privilege'
+url: http://www.gutenberg.org/ebooks/71414
