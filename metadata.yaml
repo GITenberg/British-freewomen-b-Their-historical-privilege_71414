@@ -1,5 +1,8 @@
 _repo: British-freewomen-b-Their-historical-privilege_71414
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71414-h/images/cover.jpg
 creator:
   author:
     agent_name: Stopes, C. C. (Charlotte Carmichael)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31907
     wikipedia: https://en.wikipedia.org/wiki/Charlotte_Carmichael_Stopes
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71414#British-freewomen-b-Their-historical-privilege
 gutenberg_issued: '2023-08-15'
 identifiers:
   gutenberg: '71414'
